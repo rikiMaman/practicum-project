@@ -4,11 +4,13 @@
 FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
 WORKDIR /src
 
-# Copy all project folders from one level above
+# Copy project folders from one level above (because Dockerfile is inside Manage.API)
 COPY ../Manage.Core/ Manage.Core/
 COPY ../Manage.Data/ Manage.Data/
 COPY ../Manage.Service/ Manage.Service/
-COPY ../Manage.API/ Manage.API/
+
+# Copy ONLY this API folder ('.' means current directory)
+COPY . Manage.API/
 
 # Restore & Publish
 WORKDIR /src/Manage.API
