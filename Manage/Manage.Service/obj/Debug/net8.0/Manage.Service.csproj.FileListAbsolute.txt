@@ -15,3 +15,21 @@ C:\רבקי -תכנות\Manage\Manage.Service\obj\Debug\net8.0\Manage.Service.dl
 C:\רבקי -תכנות\Manage\Manage.Service\obj\Debug\net8.0\refint\Manage.Service.dll
 C:\רבקי -תכנות\Manage\Manage.Service\obj\Debug\net8.0\Manage.Service.pdb
 C:\רבקי -תכנות\Manage\Manage.Service\obj\Debug\net8.0\ref\Manage.Service.dll
+C:\ריקי - תכנות\Experis\Upload To Cloud\Practicum-Project\Manage\Manage.Service\bin\Debug\net8.0\Manage.Service.deps.json
+C:\ריקי - תכנות\Experis\Upload To Cloud\Practicum-Project\Manage\Manage.Service\bin\Debug\net8.0\Manage.Service.dll
+C:\ריקי - תכנות\Experis\Upload To Cloud\Practicum-Project\Manage\Manage.Service\bin\Debug\net8.0\Manage.Service.pdb
+C:\ריקי - תכנות\Experis\Upload To Cloud\Practicum-Project\Manage\Manage.Service\bin\Debug\net8.0\Manage.Core.dll
+C:\ריקי - תכנות\Experis\Upload To Cloud\Practicum-Project\Manage\Manage.Service\bin\Debug\net8.0\Manage.Data.dll
+C:\ריקי - תכנות\Experis\Upload To Cloud\Practicum-Project\Manage\Manage.Service\bin\Debug\net8.0\Manage.Core.pdb
+C:\ריקי - תכנות\Experis\Upload To Cloud\Practicum-Project\Manage\Manage.Service\bin\Debug\net8.0\Manage.Data.pdb
+C:\ריקי - תכנות\Experis\Upload To Cloud\Practicum-Project\Manage\Manage.Service\obj\Debug\net8.0\Manage.Service.csproj.AssemblyReference.cache
+C:\ריקי - תכנות\Experis\Upload To Cloud\Practicum-Project\Manage\Manage.Service\obj\Debug\net8.0\Manage.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\ריקי - תכנות\Experis\Upload To Cloud\Practicum-Project\Manage\Manage.Service\obj\Debug\net8.0\Manage.Service.AssemblyInfoInputs.cache
+C:\ריקי - תכנות\Experis\Upload To Cloud\Practicum-Project\Manage\Manage.Service\obj\Debug\net8.0\Manage.Service.AssemblyInfo.cs
+C:\ריקי - תכנות\Experis\Upload To Cloud\Practicum-Project\Manage\Manage.Service\obj\Debug\net8.0\Manage.Service.csproj.CoreCompileInputs.cache
+C:\ריקי - תכנות\Experis\Upload To Cloud\Practicum-Project\Manage\Manage.Service\obj\Debug\net8.0\Manage.Service.sourcelink.json
+C:\ריקי - תכנות\Experis\Upload To Cloud\Practicum-Project\Manage\Manage.Service\obj\Debug\net8.0\Manage.S.5145FABF.Up2Date
+C:\ריקי - תכנות\Experis\Upload To Cloud\Practicum-Project\Manage\Manage.Service\obj\Debug\net8.0\Manage.Service.dll
+C:\ריקי - תכנות\Experis\Upload To Cloud\Practicum-Project\Manage\Manage.Service\obj\Debug\net8.0\refint\Manage.Service.dll
+C:\ריקי - תכנות\Experis\Upload To Cloud\Practicum-Project\Manage\Manage.Service\obj\Debug\net8.0\Manage.Service.pdb
+C:\ריקי - תכנות\Experis\Upload To Cloud\Practicum-Project\Manage\Manage.Service\obj\Debug\net8.0\ref\Manage.Service.dll

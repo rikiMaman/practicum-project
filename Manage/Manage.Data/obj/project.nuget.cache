@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TzCUB3zT3+tPO6+vpYaZzU6DUvku+FVcsqYgv9E9tipOdGdo3TQpUY+xb8Wa+N7X5kJgxYJX2kxs0Tt0khffew==",
+  "dgSpecHash": "hvhc1URh9Jk=",
   "success": true,
-  "projectFilePath": "C:\\רבקי -תכנות\\Manage\\Manage.Data\\Manage.Data.csproj",
+  "projectFilePath": "C:\\ריקי - תכנות\\Experis\\Upload To Cloud\\Practicum-Project\\Manage\\Manage.Data\\Manage.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\אסתר\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\אסתר\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",

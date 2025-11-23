@@ -10,3 +10,16 @@ C:\רבקי -תכנות\Manage\Manage.Core\obj\Debug\net8.0\Manage.Core.dll
 C:\רבקי -תכנות\Manage\Manage.Core\obj\Debug\net8.0\refint\Manage.Core.dll
 C:\רבקי -תכנות\Manage\Manage.Core\obj\Debug\net8.0\Manage.Core.pdb
 C:\רבקי -תכנות\Manage\Manage.Core\obj\Debug\net8.0\ref\Manage.Core.dll
+C:\ריקי - תכנות\Experis\Upload To Cloud\Practicum-Project\Manage\Manage.Core\bin\Debug\net8.0\Manage.Core.deps.json
+C:\ריקי - תכנות\Experis\Upload To Cloud\Practicum-Project\Manage\Manage.Core\bin\Debug\net8.0\Manage.Core.dll
+C:\ריקי - תכנות\Experis\Upload To Cloud\Practicum-Project\Manage\Manage.Core\bin\Debug\net8.0\Manage.Core.pdb
+C:\ריקי - תכנות\Experis\Upload To Cloud\Practicum-Project\Manage\Manage.Core\obj\Debug\net8.0\Manage.Core.csproj.AssemblyReference.cache
+C:\ריקי - תכנות\Experis\Upload To Cloud\Practicum-Project\Manage\Manage.Core\obj\Debug\net8.0\Manage.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\ריקי - תכנות\Experis\Upload To Cloud\Practicum-Project\Manage\Manage.Core\obj\Debug\net8.0\Manage.Core.AssemblyInfoInputs.cache
+C:\ריקי - תכנות\Experis\Upload To Cloud\Practicum-Project\Manage\Manage.Core\obj\Debug\net8.0\Manage.Core.AssemblyInfo.cs
+C:\ריקי - תכנות\Experis\Upload To Cloud\Practicum-Project\Manage\Manage.Core\obj\Debug\net8.0\Manage.Core.csproj.CoreCompileInputs.cache
+C:\ריקי - תכנות\Experis\Upload To Cloud\Practicum-Project\Manage\Manage.Core\obj\Debug\net8.0\Manage.Core.sourcelink.json
+C:\ריקי - תכנות\Experis\Upload To Cloud\Practicum-Project\Manage\Manage.Core\obj\Debug\net8.0\Manage.Core.dll
+C:\ריקי - תכנות\Experis\Upload To Cloud\Practicum-Project\Manage\Manage.Core\obj\Debug\net8.0\refint\Manage.Core.dll
+C:\ריקי - תכנות\Experis\Upload To Cloud\Practicum-Project\Manage\Manage.Core\obj\Debug\net8.0\Manage.Core.pdb
+C:\ריקי - תכנות\Experis\Upload To Cloud\Practicum-Project\Manage\Manage.Core\obj\Debug\net8.0\ref\Manage.Core.dll

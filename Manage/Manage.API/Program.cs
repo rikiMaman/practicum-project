@@ -6,6 +6,7 @@ using Manage.Data.Repositories;
 using Manage.Data;
 using Manage.Core;
 using Manage.Service;
+using Microsoft.EntityFrameworkCore;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
@@ -26,8 +27,14 @@ builder.Services.AddScoped<IEmployeeRepository, EmployeeRepository>();
 //builder.Services.AddScoped<IRoleEmployeeRepository, RoleEmployeeRepository>();
 builder.Services.AddScoped<IRoleService, RoleService>();
 builder.Services.AddScoped<IRoleRepository, RoleRepository>();
-builder.Services.AddDbContext<DataContext>();
+//builder.Services.AddDbContext<DataContext>();
 builder.Services.AddAutoMapper(typeof(MappingProfile), typeof(ApiMappingProfile));
+builder.Services.AddDbContext<DataContext>(options =>
+{
+    options.UseSqlServer(
+        builder.Configuration.GetConnectionString("DefaultConnection"));
+});
+
 var app = builder.Build();
 
 app.UseCors(builder =>

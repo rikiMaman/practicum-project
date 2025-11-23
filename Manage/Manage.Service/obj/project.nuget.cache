@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ibbBPV7T6qf+v3K/Vjc/s6MhtVLUIDdxWWSh7RETInsitQRXPcctVL4Gn2CrwbK+2u665JKOZNU2crmszqHMDw==",
+  "dgSpecHash": "9pvkVcmm2lw=",
   "success": true,
-  "projectFilePath": "C:\\רבקי -תכנות\\Manage\\Manage.Service\\Manage.Service.csproj",
+  "projectFilePath": "C:\\ריקי - תכנות\\Experis\\Upload To Cloud\\Practicum-Project\\Manage\\Manage.Service\\Manage.Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\אסתר\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\אסתר\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

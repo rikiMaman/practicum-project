@@ -500,7 +500,10 @@
           "AutoMapper": "13.0.1"
         },
         "runtime": {
-          "Manage.Core.dll": {}
+          "Manage.Core.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }

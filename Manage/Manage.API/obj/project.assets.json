@@ -2489,11 +2489,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\רבקי -תכנות\\Manage\\Manage.API\\Manage.API.csproj",
+      "projectUniqueName": "C:\\ריקי - תכנות\\Experis\\Upload To Cloud\\Practicum-Project\\Manage\\Manage.API\\Manage.API.csproj",
       "projectName": "Manage.API",
-      "projectPath": "C:\\רבקי -תכנות\\Manage\\Manage.API\\Manage.API.csproj",
+      "projectPath": "C:\\ריקי - תכנות\\Experis\\Upload To Cloud\\Practicum-Project\\Manage\\Manage.API\\Manage.API.csproj",
       "packagesPath": "C:\\Users\\אסתר\\.nuget\\packages\\",
-      "outputPath": "C:\\רבקי -תכנות\\Manage\\Manage.API\\obj\\",
+      "outputPath": "C:\\ריקי - תכנות\\Experis\\Upload To Cloud\\Practicum-Project\\Manage\\Manage.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2514,14 +2514,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\רבקי -תכנות\\Manage\\Manage.Core\\Manage.Core.csproj": {
-              "projectPath": "C:\\רבקי -תכנות\\Manage\\Manage.Core\\Manage.Core.csproj"
+            "C:\\ריקי - תכנות\\Experis\\Upload To Cloud\\Practicum-Project\\Manage\\Manage.Core\\Manage.Core.csproj": {
+              "projectPath": "C:\\ריקי - תכנות\\Experis\\Upload To Cloud\\Practicum-Project\\Manage\\Manage.Core\\Manage.Core.csproj"
             },
-            "C:\\רבקי -תכנות\\Manage\\Manage.Data\\Manage.Data.csproj": {
-              "projectPath": "C:\\רבקי -תכנות\\Manage\\Manage.Data\\Manage.Data.csproj"
+            "C:\\ריקי - תכנות\\Experis\\Upload To Cloud\\Practicum-Project\\Manage\\Manage.Data\\Manage.Data.csproj": {
+              "projectPath": "C:\\ריקי - תכנות\\Experis\\Upload To Cloud\\Practicum-Project\\Manage\\Manage.Data\\Manage.Data.csproj"
             },
-            "C:\\רבקי -תכנות\\Manage\\Manage.Service\\Manage.Service.csproj": {
-              "projectPath": "C:\\רבקי -תכנות\\Manage\\Manage.Service\\Manage.Service.csproj"
+            "C:\\ריקי - תכנות\\Experis\\Upload To Cloud\\Practicum-Project\\Manage\\Manage.Service\\Manage.Service.csproj": {
+              "projectPath": "C:\\ריקי - תכנות\\Experis\\Upload To Cloud\\Practicum-Project\\Manage\\Manage.Service\\Manage.Service.csproj"
             }
           }
         }
@@ -2535,7 +2535,8 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      }
+      },
+      "SdkAnalysisLevel": "9.0.300"
     },
     "frameworks": {
       "net8.0": {
@@ -2575,7 +2576,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

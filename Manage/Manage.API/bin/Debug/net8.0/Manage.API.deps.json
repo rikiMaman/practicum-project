@@ -488,7 +488,10 @@
           "AutoMapper": "13.0.1"
         },
         "runtime": {
-          "Manage.Core.dll": {}
+          "Manage.Core.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "Manage.Data/1.0.0": {
@@ -498,7 +501,10 @@
           "Microsoft.EntityFrameworkCore.SqlServer": "6.0.25"
         },
         "runtime": {
-          "Manage.Data.dll": {}
+          "Manage.Data.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "Manage.Service/1.0.0": {
@@ -507,7 +513,10 @@
           "Manage.Data": "1.0.0"
         },
         "runtime": {
-          "Manage.Service.dll": {}
+          "Manage.Service.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
