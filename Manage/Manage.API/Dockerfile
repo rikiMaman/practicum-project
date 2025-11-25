@@ -4,18 +4,21 @@
 FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
 WORKDIR /src
 
-# Copy everything from API folder (Render context = Manage/API)
-COPY . .
+# Copy entire solution (Manage/) into container
+COPY .. .
 
-RUN dotnet restore "Manage.API.csproj"
-RUN dotnet publish "Manage.API.csproj" -c Release -o /app/publish
+# Restore
+WORKDIR /src/Manage.API
+RUN dotnet restore Manage.API.csproj
+
+# Publish
+RUN dotnet publish Manage.API.csproj -c Release -o /app/publish
 
 # ============================
 #   RUNTIME STAGE
 # ============================
 FROM mcr.microsoft.com/dotnet/aspnet:8.0 AS final
 WORKDIR /app
-
 COPY --from=build /app/publish .
 
 EXPOSE 8080
