@@ -4,15 +4,11 @@
 FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
 WORKDIR /src
 
-# Copy all project folders from repo root (Render context = Manage/Manage.API)
-COPY ../Manage.Core ./Manage.Core/
-COPY ../Manage.Data ./Manage.Data/
-COPY ../Manage.Service ./Manage.Service/
-COPY . ./Manage.API/
+# Copy everything from API folder (Render context = Manage/API)
+COPY . .
 
-WORKDIR /src/Manage.API
-RUN dotnet restore
-RUN dotnet publish -c Release -o /app/publish
+RUN dotnet restore "Manage.API.csproj"
+RUN dotnet publish "Manage.API.csproj" -c Release -o /app/publish
 
 # ============================
 #   RUNTIME STAGE
